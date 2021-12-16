@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\5_SEMESTR\OSISP\OSISP_4\OSiSP2_lab4\main.cpp(71,24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  SortTask.cpp
+  TaskQueue.cpp
+  ThreadProcessor.cpp
+  Создание кода...
+  OSiSP2_lab4.vcxproj -> D:\5_SEMESTR\OSISP\OSISP_4\x64\Debug\OSiSP2_lab4.exe
